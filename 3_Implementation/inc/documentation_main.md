@@ -1,2 +1,2 @@
-	@mainpage Calculator Application by "Akansha Nageshwar"
-	@subpage Calender_operations.h
+@mainpage Calender Application by Akansha Nageshwar
+@subpage Calender_operations.h
