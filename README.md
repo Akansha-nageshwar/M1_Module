@@ -4,3 +4,4 @@
 * Codiga - Static Analysis ![Quality](https://api.codiga.io/project/32181/status/svg)
 
 * Cppcheck Analysis - [![Analysis](https://github.com/Akansha-nageshwar/M1_Module/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Akansha-nageshwar/M1_Module/actions/workflows/c-cpp.yml)
+* Unit Testing - [![Unit Testing](https://github.com/Akansha-nageshwar/M1_Module/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Akansha-nageshwar/M1_Module/actions/workflows/unit-test.yml)
