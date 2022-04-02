@@ -1,4 +1,4 @@
-# Project Calender Using C
+# Project - Calender Using C Programming
 ## Introduction
 * This project is about printing a calender month by month for a given year as input from user.
 ## Feature
