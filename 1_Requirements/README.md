@@ -26,3 +26,17 @@
 * Used by everyone.
 ### Threats:
 * More space to display the data.
+## High Level Requirements
+| ID No | Description | Status|
+| ----- | ----------- | ------|
+| HR 01 | Operating system(Windows10/Linux) | Implemented |
+| HR 02 | User should be able to give input	 | Implemented |
+| HR 03 | Prints the output	 | Implemented |
+
+## Low Level Requirements
+| ID No | Description | Status|
+| ----- | ----------- | ------|
+| LR 01 | After getting the input from user checks for a valid input | Implemented |
+| LR 02 | Calculates number of days in each month accordingly in case of a leap year	 | Implemented |
+| LR 03 | Now it assigns the day of the week for a given data	 | Implemented |
+| LR 04 | Displays the Calendar month by month	 | Implemented |
